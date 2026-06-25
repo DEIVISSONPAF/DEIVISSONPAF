@@ -25,6 +25,10 @@ Sou um desenvolvedor com experiência em **Front End** que está se especializan
 - ✅ **Testes Manuais** estruturados e bem documentados
 - 🔍 **Garantia de Qualidade** em aplicações web
 - 📊 **Boas práticas** em QA e automação
+- 🗄️ **SQL** para Análise de Dados
+- 📊 **Bancos de Dados** Relacionais (MySQL)
+- 📈 **Análise e exploração** de dados com MetaBase
+
 
 ---
 
